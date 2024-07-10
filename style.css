@@ -1,0 +1,10 @@
+/* style.css */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-color: transparent transparent LightSkyBlue;
+    border-width: 4px;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+    border-color: transparent transparent LightSalmon;
+    border-width:4px;
+}
